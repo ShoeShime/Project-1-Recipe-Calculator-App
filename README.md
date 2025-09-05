@@ -1,5 +1,16 @@
 # Recipe Calculator - Flutter Project
 
+## Finished App Appearance
+
+The completed application should match these visual examples
+
+### App Screenshots
+
+| Main Screen | Recipe Detail Screen |
+|-------------|----------------------|
+| <img src="finished-app-visuals/FrontPage_1.png" alt="Front Page View 1" width="70%" /> | <img src="finished-app-visuals/RecipeDetailPage_1.png" alt="Recipe Detail View 1" width="70%" />|
+| <img src="finished-app-visuals/FrontPage_2.png" alt="Front Page View 2" width="70%" /> | <img src="finished-app-visuals/RecipeDetailPage_2.png" alt="Recipe Detail View 2" width="70%" />|
+
 ## Project Overview
 A Flutter-based recipe calculator application that displays various recipes, allows users to view detailed ingredient lists, and adjust serving sizes with dynamic quantity calculations.
 
